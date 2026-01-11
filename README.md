@@ -1,4 +1,4 @@
-# 🌱 Plant Disease Detection System
+# 🌱 Crop Disease Detection System
 
 This project uses a deep learning model to detect plant diseases from leaf images.
 It supports multiple crops like **Tomato, Potato, and Pepper** and identifies both
